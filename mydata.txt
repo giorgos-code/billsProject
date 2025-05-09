@@ -1,0 +1,11 @@
+Antonia Ax:son Johnson & Family;Stockholm/Sweden;Diversified;Sweden;F;6/9/1943 13:42;9.00
+Ernesto Bertarelli;Gstaad/Switzerland;Biotech, investments;Switzerland;M;22/9/1965 14:33;9.00
+Pamela Mars;Alexandria/United States;Candy, pet food;United States;F;1/8/1960 01:20;9.00
+Valerie Mars;New York/United States;Candy, pet food;United States;F;26/1/1959 15:04;9.00
+Victoria Mars;Philadelphia/United States;Candy, pet food;United States;F;15/12/1956 09:06;9.00
+Vincent Bolloré & Family;Paris/France;Investments;France;M;1/4/1952 01:23;9.00
+Jim Pattison;Vancouver/Canada;Diversified;Canada;M;1/10/1928 13:37;9.00
+Wang Xing;Beijing/China;Food delivery;China;M;18/2/1979 13:47;9.00
+Brian Chesky;San Francisco/United States;Airbnb;United States;M;29/8/1981 05:28;9.00
+James Dyson;Gloucestershire/United Kingdom;Vacuums;United Kingdom;M;2/5/1947 00:03;9.00
+Roman Abramovich & Family;Moscow/Russia;Steel, investments;Russia;M;24/10/1966 16:15;9.00
